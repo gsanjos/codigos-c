@@ -1,2 +1,2 @@
 # codigos-c
- Códigos de exercícios de Linguagem C.
+ Códigos de exercícios em Linguagem C.
